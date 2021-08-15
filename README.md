@@ -1,6 +1,6 @@
 # Jayden Lind
 
-Welcome to my little GitHub. I post my projects I'm working on, which consists of:
+Welcome to my little GitHub. I post my projects I'm working on, which consists of these languages:
 
 <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/docker.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png" /></a>
