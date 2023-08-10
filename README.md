@@ -4,7 +4,6 @@ Check out [jayden-lind.github.io](https://jayden-lind.github.io/)
 
 <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/docker.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/typescript.png" /></a>
 <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="32" height="32"/></a>
 
 ## Homelab
