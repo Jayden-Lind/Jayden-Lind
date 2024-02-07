@@ -12,6 +12,6 @@ Check out [jayden-lind.github.io](https://jayden-lind.github.io/)
 
 ## Links
 <a href="https://www.linkedin.com/in/jayden-lind/">
-  <img align="left" alt="Jayden's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jayden's LinkedIn" width="22px" src="https://www.linkedin.com/favicon.ico" />
 </a>
 <a target="_blank" href="https://jayden-lind.github.io"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
